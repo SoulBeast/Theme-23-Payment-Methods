@@ -1,0 +1,17 @@
+{
+    "name": "perspective/theme23expart4",
+    "description": "",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+      "MIT"
+    ],
+    "autoload": {
+      "psr-4": {
+        "Perspective\\Theme23ExPart4\\": ""
+      },
+      "files": [
+        "registration.php"
+      ]
+    }
+  }
